@@ -36,6 +36,7 @@
     - **For Linux/macOS:**
       ```bash
       pip install -r requirements.txt
+      pip install curses
       ```
 
     - **For Windows:**
