@@ -1,6 +1,6 @@
 # Play That Song
 
-**Play That Song** is a terminal-based MP3 player built with Python using `pygame`, `curses`, and `mutagen`. It provides a nostalgic, text-based interface to browse, play, and control your music library directly from the command line.
+**Play That Song** is a terminal-based MP3 player built with Python, utilizing `pygame`, `curses`, and `mutagen`. It features keyboard controls for playback, volume adjustment, seeking within tracks, shuffle, repeat modes, and a customizable text-based interface. The player can display song metadata and switch between music directories during runtime. Installation instructions are provided for Linux, macOS, and Windows.
 
 ## Features
 
